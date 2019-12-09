@@ -1,5 +1,5 @@
 jdbc.driverClassName: com.mysql.jdbc.Driver
 jdbc.url: jdbc:mysql://127.0.0.1:3306/testproject
-jdbc.username: root-dev-config-client-18
-jdbc.password: root-dev-config-client-18
-profile: 2.8
+jdbc.username: root-dev-config-client-19
+jdbc.password: root-dev-config-client-19
+profile: 2.9
